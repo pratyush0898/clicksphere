@@ -1,4 +1,4 @@
-// server.js - Main Express.js server file
+// index.js - Main Express.js server file
 // This file sets up the Express server, Socket.IO for real-time updates,
 // connects to MongoDB, and handles HTTP routes
 
