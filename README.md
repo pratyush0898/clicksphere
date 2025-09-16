@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [Coming Soon]
+- **Live Demo**: [ClickSphere](http://serve.flollama.in:3000/)
 - **Repository**: [GitHub Repository](https://github.com/pratyush0898/clicksphere/edit/master/README.md)
 
 ## 👨‍💻 Author
