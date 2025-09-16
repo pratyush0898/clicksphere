@@ -50,9 +50,9 @@ clicksphere/
 
 ### Installation
 
-1. **Clone or create the project:**
+1. **Clone the project:**
    ```bash
-   mkdir clicksphere
+   git clone https://github.com/pratyush0898/clicksphere.git
    cd clicksphere
    ```
 
@@ -231,9 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Live Demo**: [Coming Soon]
-- **Repository**: [GitHub Repository]
-- **Issues**: [Report Issues]
-- **Documentation**: [Full Documentation]
+- **Repository**: [GitHub Repository](https://github.com/pratyush0898/clicksphere/edit/master/README.md)
 
 ## 👨‍💻 Author
 
